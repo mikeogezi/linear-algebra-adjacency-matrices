@@ -18,13 +18,14 @@ What things you need to install the software and how to install them
 A step by step series of examples that tell you have to get a development env running
 
 **Linux and Windows**
+To use this software you'll need to install *matplotlib*, *numpy* and *networkx* after installing *python*
 ```
-Type these into your terminal
+Type these into your terminal/command-line
 $ pip install matplotlib
 $ pip install numpy
 $ pip install networkx
 
-To solve a system of equations enter this (decomposition)
+To read from the *data.json* file and generate it's graph and resulting adjacency matrix  
 $ python index.py
 ```
 
