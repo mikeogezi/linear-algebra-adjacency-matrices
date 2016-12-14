@@ -29,19 +29,20 @@ $ python index.py
 ```
 
 **Format of JSON file**
-```
+
 How the JSON file should be written so that the program can read it properly.
 
 * Inside the data object we have the person's department
 * In the department we have the person's name along with an array of the names of his friends
 
-`
+```
 "data": {
   "computer_science": {
     "Michael": ["David", "Daniel", "Tobi"]
   }
 }
-`
+```
+```
 
 ## Built With
 
