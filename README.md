@@ -42,7 +42,6 @@ How the JSON file should be written so that the program can read it properly.
   }
 }
 ```
-```
 
 ## Built With
 
