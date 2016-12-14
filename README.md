@@ -56,7 +56,7 @@ How the JSON file should be written so that the program can read it properly.
 
 * **Michael Ogezi**
 
-See also the list of [contributors](contributors) who participated in this project.
+See also the list of [contributors](https://github.com/okibeogezi/mth-205-linear-algebra-adjacency-matrices/contributors) who participated in this project.
 
 ## License
 
