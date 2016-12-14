@@ -1,0 +1,56 @@
+{
+    "meta_data": {
+        "departments": ["Computer Science", "Chemistry", "Mathematics", "Statistics", "Mathematics Education"],
+        "departments_short": ["CS", "CHM", "MTH", "STA", "MTH EDU"]
+    },
+    "data": {
+        "computer_science": {
+            "Michael": ["Japhet", "Emma", "Evelyn", "Peter", "Jessica", "Jummai"],
+            "Peter": ["Jessica", "Jummai", "Michael"],
+            "Jessica": ["Peter", "Jummai", "Michael"],
+            "Jummai": ["Peter", "Jessica", "Christy", "Michael"],
+            "Oscar": ["Peter", "Michael"],
+            "Lyop": ["Michael", "Peter", "Jummai", "Jessica", "Ozigi"],
+            "Tobias": ["Peter", "Jummai", "Oscar"]
+        },
+        "chemistry": {
+            "Naomi": ["Emma"],
+            "IK": ["Emma"],
+            "Peace": ["Emma", "Amaka", "Oche"],
+            "Blessed": ["Amaka"],
+            "Oche": ["Emma", "Blessed", "Naomi", "IK", "John", "Peace"],
+            "John": ["Oche"],
+            "Jatau": ["Emma", "Oche", "Blessed", "Simon", "Naomi", "Peace"],
+            "Simon": ["Jatau", "Naomi"],
+            "Nasiba": ["Emma"]
+        },
+        "mathematics": {
+            "Christy": ["Jummai", "Michael", "Emma"],
+            "Hyacinth": ["Amaka"],
+            "Blessing": ["Emma", "Christy", "Lyop"]
+        },
+        "statistics": {
+            "Japhet": ["Evelyn", "Emma", "Michael"],
+            "Emma": ["Japhet", "Evelyn", "Michael", "Yinda", "Shedrach", "Amaka"],
+            "Evelyn": ["Japhet", "Emma", "Michael"],
+            "Shedrach": ["Emma", "Amaka", "Japhet", "Evelyn", "Michael"],
+            "Amaka": ["Emma", "Shedrach", "Hyacinth", "Moses O", "Daniel", "Uche", "IK", "Peace", "Blessed"],
+            "Moses O": ["Amaka"],
+            "Daniel": ["Amaka"],
+            "Uche": ["Amaka", "Daniel", "Christy"],
+            "Yinda": ["Emma", "Shedrach", "Japhet", "Evelyn", "Christy"],
+            "Ozigi": ["Emma", "Christy", "Naomi", "Oche", "Shedrach", "Lyop"]
+        },
+        "mathematics_education": {
+            "Gyang": ["John M"],
+            "John M": ["Gyang", "Emma"]
+        }
+    },
+    "count_data": {
+        "computer_science_group_members_count": 0,
+        "chemistry_group_members_count": 0,
+        "mathematics_group_members_count": 0,
+        "statistics_group_members_count": 0,
+        "mathematics_education_group_members_count": 0
+    }
+}
