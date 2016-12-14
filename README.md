@@ -1,4 +1,4 @@
-# mth-204-linear-algebra-adjacency-matrices
+# mth-205-linear-algebra-adjacency-matrices
 I wrote this code to read a json file that contains the names of people along with their friends. An adjacency matrix and graph diagram are then computer from the data.  I then compute the eigenvalues, eigenvectors, frobenius norm, trace e.t.c of the matrix and display them.
 
 ## Getting Started
