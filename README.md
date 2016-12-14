@@ -46,17 +46,17 @@ How the JSON file should be written so that the program can read it properly.
 
 ## Built With
 
-* Atom
-* Python
-* Numpy
-* Matplotlib
-* NetworkX
+* Atom (https://atom.io/)
+* Python (https://www.python.org/)
+* Numpy (http://www.numpy.org/)
+* Matplotlib (http://matplotlib.org/)
+* NetworkX (https://networkx.github.io/)
 
 ## Authors
 
 * **Michael Ogezi**
 
-See also the list of [contributors](https://github.com/okibeogezi/mth-205-linear-algebra-adjacency-matrices/contributors) who participated in this project.
+See also the list of [contributors](contributors) who participated in this project.
 
 ## License
 
